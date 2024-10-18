@@ -1,0 +1,6 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+zandi, boss up, standing on business, 20 April, 16 April, No
+zandi, we are winning, we are winning bight time, 20.12.2024, 18.04.2024, No
+zandy, we are winning, we are staning on business and chasing bag, 02.10.2024, 29.04.2024, No
+bob, bob the builder, bob is bobbing around, 20.01.2025, 29.04.2024, No
